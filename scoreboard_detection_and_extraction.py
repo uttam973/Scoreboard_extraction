@@ -424,6 +424,3 @@ process_images(folder_name)
 
 
 
-
-import time
-time.sleep(1200)
